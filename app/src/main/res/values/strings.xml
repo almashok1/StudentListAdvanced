@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">StudentListAdvanced</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="student_name">Add Student Name</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="grade">Grade</string>
+    <string name="restore_a_student">Restore a student</string>
+    <string name="id">ID</string>
+    <string name="name_and_surname">Name and Surname</string>
+</resources>
